@@ -1,0 +1,9 @@
+{
+  "apiKey": "{{ INSERT YOUR FIREBASE CONFIG }}",
+  "authDomain": "{{ INSERT YOUR FIREBASE CONFIG }}",
+  "projectId": "{{ INSERT YOUR FIREBASE CONFIG }}",
+  "storageBucket": "{{ INSERT YOUR FIREBASE CONFIG }}",
+  "messagingSenderId": "{{ INSERT YOUR FIREBASE CONFIG }}",
+  "appId": "{{ INSERT YOUR FIREBASE CONFIG }}",
+  "measurementId": "{{ INSERT YOUR FIREBASE CONFIG }}"
+}
